@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-18T22:38:46 EDT" name="petSuite" finished-at="2023-08-18T22:38:49 EDT" duration-ms="3512">
+    <groups>
+    </groups>
+    <test started-at="2023-08-18T22:38:46 EDT" name="petTest" finished-at="2023-08-18T22:38:49 EDT" duration-ms="3512">
+      <class name="api.test.UserTests2">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests2@18078bef]" started-at="2023-08-18T22:38:46 EDT" name="setupData" finished-at="2023-08-18T22:38:46 EDT" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testpostUser()[pri:1, instance:api.test.UserTests2@18078bef]" started-at="2023-08-18T22:38:46 EDT" name="testpostUser" finished-at="2023-08-18T22:38:48 EDT" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostUser -->
+        <test-method signature="testgetuser()[pri:2, instance:api.test.UserTests2@18078bef]" started-at="2023-08-18T22:38:48 EDT" name="testgetuser" finished-at="2023-08-18T22:38:48 EDT" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetuser -->
+        <test-method signature="testupdateuser()[pri:3, instance:api.test.UserTests2@18078bef]" started-at="2023-08-18T22:38:48 EDT" name="testupdateuser" finished-at="2023-08-18T22:38:49 EDT" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateuser -->
+        <test-method signature="testdelete()[pri:4, instance:api.test.UserTests2@18078bef]" started-at="2023-08-18T22:38:49 EDT" name="testdelete" finished-at="2023-08-18T22:38:49 EDT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdelete -->
+      </class> <!-- api.test.UserTests2 -->
+    </test> <!-- petTest -->
+  </suite> <!-- petSuite -->
+</testng-results>
